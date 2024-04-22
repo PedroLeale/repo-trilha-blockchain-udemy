@@ -2,9 +2,6 @@ Conteúdo da branch "develop"
 
 - Mudança 1 para o Rebase - Squash
 
-<<<<<<< HEAD
 - Mudança 2 para o Rebase - Squash
->>>>>>> 59da508 (Mudança 1 para o Rebase - Squash)
-
 
 - Mudança 3 para o Rebase - Squash
