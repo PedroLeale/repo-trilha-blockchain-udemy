@@ -1,0 +1,2 @@
+Conteudo que irá para a stash e será usado para criação de uma branch a partir da develop.
+Possívelmente será integrado novamente através de merge.
