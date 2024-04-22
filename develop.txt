@@ -5,3 +5,9 @@ Conteúdo da branch "develop"
 - Mudança 2 para o Rebase - Squash
 
 - Mudança 3 para o Rebase - Squash
+
+- Mudança 4
+
+- Mudança 5
+
+- Mudança 6
