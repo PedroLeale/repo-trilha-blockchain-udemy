@@ -1,0 +1,1 @@
+Conteúdo da branch-exemplo, que não será dado "merge"
