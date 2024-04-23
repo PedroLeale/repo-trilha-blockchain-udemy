@@ -117,3 +117,8 @@ Coloque o texto entre [] e logo depois coloque o link entre ()
 Coloque o texto dentro de ![], e depois () com o caminho/link. Neste caso é uma imagem local, mas não precisa ser necessariamente.
 
 ![Logo do github local](./imagens/github-logo.png)
+
+## Funcionalidade do Github
+
+Ao enviar um arquivo Markdown para o github, é possível colocarmos emojis, mas lembre-se que isso é uma característica da plataforma e não necessariamente do Markdown em si. <br>
+Exemplos: :smiley: :blush: :star_struck:
