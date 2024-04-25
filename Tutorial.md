@@ -1,7 +1,14 @@
-# Markdown cheatsheet
+# Tutorial Markdown
 
-Segue o cheatsheet abaixo com os comandos
+Comandos aprendidos durante a aula de Markdown.
 
+## Comentário
+
+Semelhante aos comentários em linguagens de programação, coloque o texto desejado entre "<>". <br>
+
+< Comentario > Mas lembre-se do espaçamento. Abra o arquivo para edição para visualizar.
+
+<Comentario Exemplo>
 <Comentario>
 
 ## Headers
