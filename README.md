@@ -1,15 +1,20 @@
 # repo-trilha-blockchain-udemy
 Repositório criado para seguir com a trilha de aprendizado Blockchain, para o programa de bolsas Compass UOL.
 
+## Arquivo Markdown para atividade 4
+
+[Clique aqui para visualizar](./Tutorial.md)
+
 ## Branches disponíveis
 
 Neste repositório foram criadas algumas branches para seguir com as aulas.
 
-## Branch develop
+### Branch develop
 
-Foi criada para tentar simular um contexto real em que, os desenvolvedores criam uma funcionalidade, testam e depois enviam para a "produção" ou branch main/master usando merge.
+Foi criada para tentar simular um contexto real em que, os desenvolvedores criam uma funcionalidade, testam e depois enviam para a "produção" ou branch main/master usando merge. <br>
+O arquivo develop.txt veio de um merge de desta branch.
 
-## Branch branch-exemplo
+### Branch branch-exemplo
 
 Foi criada como uma branch alternativa em que não pretendo usar merge, apenas para aprender a usar os diferentes ambientes.
 
